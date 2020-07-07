@@ -6,9 +6,9 @@ categories: jekyll update
 
 Jekyll also offers powerful support for code snippets:
 
-​```python
+```
 def print_hi(name):
   print("hello", name)
 print_hi('Tom')
 print('신기해')
-​```
+```
