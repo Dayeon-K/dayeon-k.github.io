@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dayeon's Github"
+title                    : "Dayeon's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dayeon Kang"
-description              : "An amazing website."
+name                     : #"Dayeon Kang"
+description              : #
 url                      : "https://dayeon.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dayeon Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Yonsei Univ. School of Business"
+  location         : "Seoul, S.Korea"
+  email            :  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
