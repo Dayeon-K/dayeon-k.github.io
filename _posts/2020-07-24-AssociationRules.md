@@ -154,7 +154,7 @@ ax.set_ylim(0,200)
 
 
 
-![png](AssociationRules_files/AssociationRules_8_1.png)
+![png](/images/AssociationRules_files/AssociationRules_8_1.png)
 
 
 Playlists up until the 3rd quantile have like counts lower than 25. Delete playlist with like counts lower than 10.
@@ -1280,7 +1280,7 @@ draw_graph(rules,25) #color = lift, size = support
 ```
 
 
-![png](AssociationRules_files/AssociationRules_31_0.png)
+![png](/images/AssociationRules_files/AssociationRules_31_0.png)
 
 
 The colors represent lift, the sizes represent support. Each node represents a rule.<br>
@@ -2082,7 +2082,7 @@ draw_graph(rules2,35)#노드가 룰
 ```
 
 
-![png](AssociationRules_files/AssociationRules_38_0.png)
+![png](/images/AssociationRules_files/AssociationRules_38_0.png)
 
 
 Women K-pop artists before 2015 and after 2015 are separated from each other, but connected within. Women pop artists are also connected (Jessie J, Nicki Minaj and Arana Grande). Sam Smith and Adele show up together, and this seems quite reasonable sonce they have a similar vibe. 
@@ -2672,7 +2672,7 @@ draw_graph(rules3,35)
 ```
 
 
-![png](AssociationRules_files/AssociationRules_51_0.png)
+![png](/images/AssociationRules_files/AssociationRules_51_0.png)
 
 
 This doesn't give us much insight because it appears quite obvious. e.g)People who listen to pop also listen more to EDM or Hip Hop. 
