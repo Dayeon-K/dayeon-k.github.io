@@ -1,3 +1,11 @@
+---
+title: "Association Rules"
+date: 2020-07-24 08:26:28 -0400
+classes: wide
+toc: true
+categories: DataAnalysis
+---
+
 
 # Association Rules
 
