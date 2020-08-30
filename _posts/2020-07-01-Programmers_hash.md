@@ -1,5 +1,13 @@
+---
+title: "Programmers-Hash"
+date: 2020-07-01 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
 
 # Hash
+출처: Programmers
 
 Key(데이터)와 주소(데이터의 위치)를 매핑시키는 것을 통해 구현한 자료구조로, O(1)의 복잡도로 삽입, 수정이 가능하며 중복되는 값이 없어 효율적임. <br>
 [출처] [알고리즘 입문] 자료구조 - 해시테이블(Hash Table)
