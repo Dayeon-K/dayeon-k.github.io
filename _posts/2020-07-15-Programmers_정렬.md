@@ -1,3 +1,10 @@
+---
+title: "Programmers-정렬"
+date: 2020-07-15 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
 
 # 정렬
 
