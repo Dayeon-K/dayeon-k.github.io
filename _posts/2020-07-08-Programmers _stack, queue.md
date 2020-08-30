@@ -134,7 +134,7 @@ solution 함수의 매개변수로 다리 길이 bridge_length, 다리가 견딜
 - truck_weights의 길이는 1 이상 10,000 이하입니다.
 - 모든 트럭의 무게는 1 이상 weight 이하입니다.
 
-bridge_length	|  weight | truck_weights	|  return
+bridge_length, weight, truck_weights	|  return
 - 2, 10, [7,4,5,6]  |	8
 - 100, 100, [10]  |	101
 - 100, 100, [10,10,10,10,10,10,10,10,10,10]	|  110
@@ -180,8 +180,8 @@ def solution(bridge_length, weight, truck_weights):
 - location은 0 이상 (현재 대기목록에 있는 작업 수 - 1) 이하의 값을 가지며 대기목록의 가장 앞에 있으면 0, 두 번째에 있으면 1로 표현합니다.
 
 priorities	|  location	|  return
-- [2, 1, 3, 2], 2	|  1
-- [1, 1, 9, 1, 1, 1], 0	|  5
+- [2, 1, 3, 2] | 2	|  1
+- [1, 1, 9, 1, 1, 1] |  0	|  5
 
 
 ```python
