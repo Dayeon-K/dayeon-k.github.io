@@ -1,3 +1,10 @@
+---
+title: "Programmers-Stack,Queue"
+date: 2020-07-11 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
 
 # Stack, Queue
 
