@@ -172,6 +172,7 @@ arrows	|  return
 
 ![png](/images/programmers_files/그래프1.png)
 
+
 1. 방문한 좌표와 이동경로를 key로 하는 dict를 2개 만들고 방문하면 1로 저장한다
 
 2. 왔던 경로를 반대로 돌아가는 경로를 고려하여 경로를 저장하는 dir에 반대방향으로 이동하는 경로도 체크
