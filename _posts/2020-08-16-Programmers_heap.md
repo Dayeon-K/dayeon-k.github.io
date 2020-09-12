@@ -3,7 +3,7 @@ title: "Programmers-Heap"
 date: 2020-08-16 08:26:28 -0400
 classes: wide
 toc: true
-categories: Algorithm
+categories: [Algorithm]
 ---
 
 # Heap
