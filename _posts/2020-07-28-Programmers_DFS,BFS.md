@@ -1,3 +1,11 @@
+---
+title: "Programmers-DFS/BFS"
+date: 2020-07-01 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
+
 # DFS/BFS
 
 - DFS: 깊이 우선 탐색. 탐색을 트리 가장 아래까지 진행
