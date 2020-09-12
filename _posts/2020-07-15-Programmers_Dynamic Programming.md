@@ -1,3 +1,11 @@
+---
+title: "Programmers-DynamicProgramming"
+date: 2020-07-15 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
+
 # 동적 프로그래밍 (Dynamic Programming)
 
 #https://blog.naver.com/shestory2015/221629833993
@@ -135,7 +143,7 @@ solution([[7], [3, 8], [8, 1, 0], [2, 7, 4, 4], [4, 5, 2, 6, 5]])
 
 아래 그림은 m = 4, n = 3 인 경우입니다.
 
-![%EB%93%B1%EA%B5%90%EA%B8%B8.png](attachment:%EB%93%B1%EA%B5%90%EA%B8%B8.png)
+![images/programmers/등교길.png]
 
 가장 왼쪽 위, 즉 집이 있는 곳의 좌표는 (1, 1)로 나타내고 가장 오른쪽 아래, 즉 학교가 있는 곳의 좌표는 (m, n)으로 나타냅니다.
 
@@ -192,7 +200,7 @@ solution(4,3,[[2,2]])
 
 도둑이 어느 마을을 털 계획을 하고 있습니다. 이 마을의 모든 집들은 아래 그림과 같이 동그랗게 배치되어 있습니다.
 
-![%EB%8F%84%EB%91%91%EC%A7%88.png](attachment:%EB%8F%84%EB%91%91%EC%A7%88.png)
+![images/programmers/.png]
 
 각 집들은 서로 인접한 집들과 방범장치가 연결되어 있기 때문에 인접한 두 집을 털면 경보가 울립니다.
 
