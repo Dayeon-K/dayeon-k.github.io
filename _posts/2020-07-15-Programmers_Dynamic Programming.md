@@ -3,7 +3,7 @@ title: "Programmers-DynamicProgramming"
 date: 2020-07-15 08:26:28 -0400
 classes: wide
 toc: true
-categories: Algorithm
+categories: [Algorithm]
 ---
 
 # 동적 프로그래밍 (Dynamic Programming)
