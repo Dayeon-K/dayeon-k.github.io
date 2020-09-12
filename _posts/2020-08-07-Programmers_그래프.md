@@ -153,7 +153,7 @@ solution(5,[[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]] )
 
 원점(0,0)에서 시작해서 아래처럼 숫자가 적힌 방향으로 이동하며 선을 긋습니다.
 
-![png](/images/programmers/그래프0.png)
+![png](/images/programmers_files/그래프0.png)
 
 ex) 1일때는 오른쪽 위로 이동
 
@@ -170,7 +170,7 @@ ex) 1일때는 오른쪽 위로 이동
 arrows	|  return
 - [6, 6, 6, 4, 4, 4, 2, 2, 2, 0, 0, 0, 1, 6, 5, 5, 3, 6, 0]	|  3
 
-![png](/images/programmers/그래프1.png)
+![png](/images/programmers_files/그래프1.png)
 
 1. 방문한 좌표와 이동경로를 key로 하는 dict를 2개 만들고 방문하면 1로 저장한다
 
