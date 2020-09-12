@@ -3,7 +3,7 @@ title: "Programmers-DFS/BFS"
 date: 2020-07-01 08:26:28 -0400
 classes: wide
 toc: true
-categories: Algorithm
+categories: [Algorithm]
 ---
 
 # DFS/BFS
