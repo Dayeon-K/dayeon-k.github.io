@@ -1,3 +1,11 @@
+---
+title: "Programmers-Heap"
+date: 2020-08-16 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
+
 # Heap
 
 https://www.daleseo.com/python-heapq/ 참고<br>
@@ -132,7 +140,7 @@ solution(stock =4, dates =[1,2,3,4],supplies=[10,20,30,40],k=100)
 - 1ms 시점에 9ms가 소요되는 B작업 요청
 - 2ms 시점에 6ms가 소요되는 C작업 요청
 
-![disk_heap.PNG](attachment:disk_heap.PNG)
+![/images/programmers/11.PNG]
 
 - A: 3ms 시점에 작업 완료 (요청에서 종료까지 : 3ms)
 - B: 1ms부터 대기하다가, 3ms 시점에 작업을 시작해서 12ms 시점에 작업 완료(요청에서 종료까지 : 11ms)
@@ -142,7 +150,7 @@ solution(stock =4, dates =[1,2,3,4],supplies=[10,20,30,40],k=100)
 
 하지만 A → C → B 순서대로 처리하면
 
-![heap2.PNG](attachment:heap2.PNG)
+![/images/programmers/12.PNG]
 
 - A: 3ms 시점에 작업 완료(요청에서 종료까지 : 3ms)
 - C: 2ms부터 대기하다가, 3ms 시점에 작업을 시작해서 9ms 시점에 작업 완료(요청에서 종료까지 : 7ms)
@@ -212,9 +220,7 @@ solution([[0, 3], [1, 9], [2, 6]] )
 
 # 4. 쇠막대기
 
-![heap3.png](attachment:heap3.png)
-
-
+![/images/programmers/13.png]
 ```python
 def solution(arrangement):
     arrange = arrangement.replace('()','|')
