@@ -280,4 +280,4 @@ defaults:
       share: true
       related: true
       
-      
+category_list = [MachineLearning, Algorithm, Competition, DataAnalysis, Visulaization, MachineLearning, DeepLearning]
