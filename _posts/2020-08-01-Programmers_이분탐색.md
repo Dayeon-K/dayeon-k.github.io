@@ -1,3 +1,11 @@
+---
+title: "Programmers-이분탐색"
+date: 2020-08-01 08:26:28 -0400
+classes: wide
+toc: true
+categories: Algorithm
+---
+
 # 이분 탐색(이진 탐색)
 
 sort된 자료에서
