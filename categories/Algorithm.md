@@ -1,7 +1,6 @@
 ---
-
 layout: category
-
-title: Algorithm
-
+title: algorithm
+category: algorithm
+permalink: '/category/algorithm'
 ---
