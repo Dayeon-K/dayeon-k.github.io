@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Competiotion
+title: Competition
 category: competition
 permalink: '/category/competition'
 ---
