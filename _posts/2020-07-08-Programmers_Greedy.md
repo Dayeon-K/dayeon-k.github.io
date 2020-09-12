@@ -3,7 +3,7 @@ title: "Programmers-Greedy"
 date: 2020-07-08 08:26:28 -0400
 classes: wide
 toc: true
-categories: Algorithm
+categories: [Algorithm]
 ---
 
 # Greedy
