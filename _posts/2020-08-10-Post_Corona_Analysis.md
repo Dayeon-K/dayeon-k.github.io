@@ -3,7 +3,7 @@ title: "Post Corona Analysis"
 date: 2020-08-10 08:26:28 -0400
 classes: wide
 toc: true
-categories: [DataAnalysis, Visualization, Competition]
+categories: DataAnalysis Visualization Competition
 ---
 
 Dacon 개최, KT에서 주최한 포스트 코로나 시각화 경진대회 최우수상 수상작입니다. 
